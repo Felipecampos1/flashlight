@@ -1,4 +1,4 @@
-# flashlight
+# FlashLight
 
 Desafio dio: Construindo um app usando sensor de movimento com React Native
 
